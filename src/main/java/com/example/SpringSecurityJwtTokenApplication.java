@@ -10,6 +10,8 @@ public class SpringSecurityJwtTokenApplication {
 		SpringApplication.run(SpringSecurityJwtTokenApplication.class, args);
 		
 		System.out.println("Done");
+		
+		System.out.println("connected with git");
 	}
 
 }
