@@ -12,7 +12,7 @@ public class SpringSecurityJwtTokenApplication {
 		System.out.println("Done");
 		 
 		System.out.println("connected with git");
-		System.out.println("connected with git checking");
+		System.out.println("connected with git");
 	}
 
 }
