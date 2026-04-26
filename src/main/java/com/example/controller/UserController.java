@@ -14,5 +14,10 @@ public class UserController {
 		return new String();
 	}
 	
+	@GetMapping("path")
+	public String getMethodName1(@RequestParam String param) {
+		return new String();
+	}
+	
 	
 }
